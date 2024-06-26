@@ -56,9 +56,24 @@ a:hover{
     top: 73%;
 
 }
+ .candidate{
+    position: absolute;
+    top: 49%;
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    z-index: 5;
+
+ }
+.pcard-body{
+    position: absolute;
+    top: 73%;
+
+}
 .name-plate{
     position: absolute;
     top: 40%;
+    z-index: 1;
     
 
 }
